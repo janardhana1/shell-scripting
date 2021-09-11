@@ -6,3 +6,7 @@ $$$$$testline
 
 
 ##test 6 line
+
+
+##test new editor
+
